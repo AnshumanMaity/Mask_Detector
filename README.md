@@ -3,7 +3,7 @@
 
 About:
 
-This a Model that detects Human Face on a live video. It further recognizes that the person has worn a mask or not. It uses Object Detection using Haar feature-based cascade classifiers to detect a person’s face. This model uses  TensorFlow keras library and a pre-trained model to predict whether a person has worn a mask or not. Euclidian distance between centroids of detected face are measured and compared to a fixed value for Displaying the social distancing alert.
+This a Model that detects Human Face on a live video. It further recognizes that the person has worn a mask or not. It uses Object Detection using Haar feature-based cascade classifiers to detect a person’s face. This model uses  TensorFlow keras library and a pre-trained model to predict whether a person has worn a mask or not. Euclidean distance between centroids of detected face are measured and compared to a fixed value for Displaying the social distancing alert.
 
 Detecting Face:
 
